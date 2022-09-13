@@ -4,17 +4,17 @@
 
 int main()
 {
-    int n, first = 0, second = 1, temp = 0;
+    int n, first = 0, second = 1, fibo = 0;
 
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    while (first <= n)
+    while (fibo <= n)
     {
-        printf("%d ", first);
-        temp = first;
+        printf("%d ", fibo);
         first = second;
-        second = second + temp;
+        second = fibo;
+        fibo = first + second;
     }
 
     return 0;

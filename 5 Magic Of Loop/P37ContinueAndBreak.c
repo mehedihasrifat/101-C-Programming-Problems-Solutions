@@ -1,3 +1,5 @@
+// Written by Mehedi Hasan Rifat
+
 #include <stdio.h>
 
 int main()

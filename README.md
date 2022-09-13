@@ -8,8 +8,10 @@
 
 #### The app is created by https://github.com/hossain-rayhan
 
-#### Please note that all the solutions written here are completely different from the solutions of Rayhan sir.
+#### Please note that: All the solutions that written here are completely different from the solutions of Rayhan sir.
 #### I thought many of us as a beginner will not be able to understand the solutions that are written right inside the app.
 #### So, I tried to find the easy way to solve those difficult yet amazing problems.
+#### If you still don't understand the solutions then feel free to contact me at "mehedihasrifat@gmail.com"
 
 ### Thank You
+### Happy Coding!

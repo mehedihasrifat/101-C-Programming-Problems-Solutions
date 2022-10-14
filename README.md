@@ -2,7 +2,7 @@
 
 #### This repository has all the solutions of 101 C Programming Problems
 
-#### Solutions are written in C by Mehedi Hasan Rifat
+#### Solutions are written in C by Mehedi Hasan Rifat (https://github.com/mehedihasrifat)
 
 #### App link: https://play.google.com/store/apps/details?id=com.appsfacto.hundred_one_c_problems&hl=en&gl=US
 
